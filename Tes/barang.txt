@@ -1,0 +1,2 @@
+Fanta*Minuman*8000
+Sprite*Minuman*7000
